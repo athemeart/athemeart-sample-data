@@ -1,4 +1,4 @@
-aThemeArt WordPress Theme Sample/Demo Data
+aThemeArt WordPress Theme's Sample/Demo Data
 ========================================
 
 You can find AThemeart's  all sample content only from this site. For the difficulty of releasing demo content elsewhere, you can find AThemeart's recent and previous releasing themes like a folder showing above here. And every folder has each specific .file, like widgets.wie, sample-data.xml, form.json, and many more.
