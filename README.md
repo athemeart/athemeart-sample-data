@@ -5,6 +5,7 @@ You can find AThemeart's  all sample content only from this site. For the diffic
 But to use our theme, you must've to download it. After that, extract the zip file and choose the file you want to import only.
 
 == How to Import One-Click Demo Content: ==
+========================================
 
 <img src="https://athemeart.com/wp-content/uploads/2021/01/import_demo_content.png" alt="How to import demo" />
 
